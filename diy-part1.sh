@@ -20,5 +20,4 @@ git clone https://github.com/tty228/luci-app-serverchan.git package/lean/luci-ap
 git clone https://github.com/Leo-Jo-My/luci-theme-opentomcat.git package/lean/luci-theme-opentomcat
 git clone https://github.com/Leo-Jo-My/luci-theme-opentomato.git package/lean/luci-theme-opentomato
 git clone https://github.com/vernesong/OpenClash.git package/lean/openclash
-git clone https://github.com/jerrykuku/node-request.git package/lean/node-request
 git clone https://github.com/jerrykuku/luci-app-jd-dailybonus.git package/lean/luci-app-jd-dailybonus
